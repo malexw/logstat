@@ -1,0 +1,1193 @@
+2021-04-01 13:14:44.966 INFO Everything is fine
+2021-04-01 13:14:37.237 INFO Everything is fine
+2021-04-01 13:14:46.703 INFO Everything is fine
+2021-04-01 13:14:51.958 INFO Everything is fine
+2021-04-01 13:14:48.546 INFO Everything is fine
+2021-04-01 13:14:35.534 ERROR Feature 2 made an error
+2021-04-01 13:14:49.285 INFO Everything is fine
+2021-04-01 13:14:37.633 INFO Everything is fine
+2021-04-01 13:14:41.601 INFO Everything is fine
+2021-04-01 13:14:30.865 INFO Everything is fine
+2021-04-01 13:14:43.401 INFO Everything is fine
+2021-04-01 13:14:52.340 INFO Everything is fine
+2021-04-01 13:14:49.803 INFO Everything is fine
+2021-04-01 13:14:47.743 INFO Everything is fine
+2021-04-01 13:14:40.111 INFO Everything is fine
+2021-04-01 13:14:55.290 INFO Everything is fine
+2021-04-01 13:14:54.017 INFO Everything is fine
+2021-04-01 13:14:50.608 INFO Everything is fine
+2021-04-01 13:14:31.006 INFO Everything is fine
+2021-04-01 13:14:38.750 INFO Everything is fine
+2021-04-01 13:14:33.777 ERROR Feature 2 made an error
+2021-04-01 13:14:41.452 INFO Everything is fine
+2021-04-01 13:14:40.557 INFO Everything is fine
+2021-04-01 13:14:43.136 INFO Everything is fine
+2021-04-01 13:14:46.837 INFO Everything is fine
+2021-04-01 13:14:36.692 INFO Everything is fine
+2021-04-01 13:14:53.938 INFO Everything is fine
+2021-04-01 13:14:49.903 INFO Everything is fine
+2021-04-01 13:14:35.679 INFO Everything is fine
+2021-04-01 13:14:46.338 INFO Everything is fine
+2021-04-01 13:14:40.260 INFO Everything is fine
+2021-04-01 13:14:48.409 INFO Everything is fine
+2021-04-01 13:14:37.478 INFO Everything is fine
+2021-04-01 13:14:33.126 WARNING Something is bad, but ok
+2021-04-01 13:14:34.604 ERROR Feature 2 made an error
+2021-04-01 13:14:54.183 INFO Everything is fine
+2021-04-01 13:14:44.827 INFO Everything is fine
+2021-04-01 13:14:41.958 INFO Everything is fine
+2021-04-01 13:14:39.747 INFO Everything is fine
+2021-04-01 13:14:37.093 INFO Everything is fine
+2021-04-01 13:14:34.823 INFO Everything is fine
+2021-04-01 13:14:36.560 INFO Everything is fine
+2021-04-01 13:14:48.091 INFO Everything is fine
+2021-04-01 13:14:42.295 INFO Everything is fine
+2021-04-01 13:14:42.669 INFO Everything is fine
+2021-04-01 13:14:34.512 INFO Everything is fine
+2021-04-01 13:14:46.917 INFO Everything is fine
+2021-04-01 13:14:35.050 ERROR Feature 2 made an error
+2021-04-01 13:14:39.295 INFO Everything is fine
+2021-04-01 13:14:40.594 INFO Everything is fine
+2021-04-01 13:14:54.251 INFO Everything is fine
+2021-04-01 13:14:41.936 INFO Everything is fine
+2021-04-01 13:14:47.949 INFO Everything is fine
+2021-04-01 13:14:53.391 INFO Everything is fine
+2021-04-01 13:14:30.658 INFO Everything is fine
+2021-04-01 13:14:45.542 INFO Everything is fine
+2021-04-01 13:14:33.915 ERROR Feature 2 made an error
+2021-04-01 13:14:33.937 ERROR Feature 1 made an error
+2021-04-01 13:14:48.236 INFO Everything is fine
+2021-04-01 13:14:47.072 INFO Everything is fine
+2021-04-01 13:14:52.807 INFO Everything is fine
+2021-04-01 13:14:55.081 INFO Everything is fine
+2021-04-01 13:14:49.273 INFO Everything is fine
+2021-04-01 13:14:31.131 INFO Everything is fine
+2021-04-01 13:14:39.635 INFO Everything is fine
+2021-04-01 13:14:38.942 INFO Everything is fine
+2021-04-01 13:14:37.998 INFO Everything is fine
+2021-04-01 13:14:44.443 INFO Everything is fine
+2021-04-01 13:14:33.947 INFO Everything is fine
+2021-04-01 13:14:44.938 INFO Everything is fine
+2021-04-01 13:14:34.877 ERROR Feature 2 made an error
+2021-04-01 13:14:53.119 INFO Everything is fine
+2021-04-01 13:14:33.088 WARNING Something is bad, but ok
+2021-04-01 13:14:50.244 INFO Everything is fine
+2021-04-01 13:14:44.866 INFO Everything is fine
+2021-04-01 13:14:42.447 INFO Everything is fine
+2021-04-01 13:14:32.758 WARNING Something is bad, but ok
+2021-04-01 13:14:33.054 WARNING Something is bad, but ok
+2021-04-01 13:14:42.937 INFO Everything is fine
+2021-04-01 13:14:44.480 INFO Everything is fine
+2021-04-01 13:14:51.894 INFO Everything is fine
+2021-04-01 13:14:50.510 INFO Everything is fine
+2021-04-01 13:14:43.662 INFO Everything is fine
+2021-04-01 13:14:36.855 INFO Everything is fine
+2021-04-01 13:14:47.653 INFO Everything is fine
+2021-04-01 13:14:33.433 ERROR Feature 2 made an error
+2021-04-01 13:14:34.614 ERROR Feature 3 made an error
+2021-04-01 13:14:55.292 INFO Everything is fine
+2021-04-01 13:14:45.433 INFO Everything is fine
+2021-04-01 13:14:32.864 WARNING Something is bad, but ok
+2021-04-01 13:14:47.499 INFO Everything is fine
+2021-04-01 13:14:39.129 INFO Everything is fine
+2021-04-01 13:14:54.446 INFO Everything is fine
+2021-04-01 13:14:50.300 INFO Everything is fine
+2021-04-01 13:14:44.092 INFO Everything is fine
+2021-04-01 13:14:31.597 INFO Everything is fine
+2021-04-01 13:14:31.592 INFO Everything is fine
+2021-04-01 13:14:43.242 INFO Everything is fine
+2021-04-01 13:14:43.274 INFO Everything is fine
+2021-04-01 13:14:30.723 INFO Everything is fine
+2021-04-01 13:14:35.901 ERROR Feature 2 made an error
+2021-04-01 13:14:40.809 INFO Everything is fine
+2021-04-01 13:14:37.155 INFO Everything is fine
+2021-04-01 13:14:54.240 INFO Everything is fine
+2021-04-01 13:14:37.403 INFO Everything is fine
+2021-04-01 13:14:34.798 INFO Everything is fine
+2021-04-01 13:14:38.292 INFO Everything is fine
+2021-04-01 13:14:46.217 INFO Everything is fine
+2021-04-01 13:14:32.582 INFO Everything is fine
+2021-04-01 13:14:31.264 INFO Everything is fine
+2021-04-01 13:14:52.369 INFO Everything is fine
+2021-04-01 13:14:39.604 INFO Everything is fine
+2021-04-01 13:14:44.180 INFO Everything is fine
+2021-04-01 13:14:32.594 WARNING Something is bad, but ok
+2021-04-01 13:14:50.761 INFO Everything is fine
+2021-04-01 13:14:50.444 INFO Everything is fine
+2021-04-01 13:14:37.122 INFO Everything is fine
+2021-04-01 13:14:31.367 INFO Everything is fine
+2021-04-01 13:14:52.241 INFO Everything is fine
+2021-04-01 13:14:51.828 INFO Everything is fine
+2021-04-01 13:14:55.193 INFO Everything is fine
+2021-04-01 13:14:51.858 INFO Everything is fine
+2021-04-01 13:14:43.538 INFO Everything is fine
+2021-04-01 13:14:43.350 INFO Everything is fine
+2021-04-01 13:14:49.400 INFO Everything is fine
+2021-04-01 13:14:32.967 WARNING Something is bad, but ok
+2021-04-01 13:14:33.029 WARNING Something is bad, but ok
+2021-04-01 13:14:34.819 INFO Everything is fine
+2021-04-01 13:14:37.738 INFO Everything is fine
+2021-04-01 13:14:39.337 INFO Everything is fine
+2021-04-01 13:14:42.995 INFO Everything is fine
+2021-04-01 13:14:47.678 INFO Everything is fine
+2021-04-01 13:14:32.601 WARNING Something is bad, but ok
+2021-04-01 13:14:32.310 INFO Everything is fine
+2021-04-01 13:14:51.453 INFO Everything is fine
+2021-04-01 13:14:45.880 INFO Everything is fine
+2021-04-01 13:14:33.092 WARNING Something is bad, but ok
+2021-04-01 13:14:42.369 INFO Everything is fine
+2021-04-01 13:14:41.881 INFO Everything is fine
+2021-04-01 13:14:40.801 INFO Everything is fine
+2021-04-01 13:14:32.149 INFO Everything is fine
+2021-04-01 13:14:47.201 INFO Everything is fine
+2021-04-01 13:14:38.713 INFO Everything is fine
+2021-04-01 13:14:50.297 INFO Everything is fine
+2021-04-01 13:14:31.774 INFO Everything is fine
+2021-04-01 13:14:39.720 INFO Everything is fine
+2021-04-01 13:14:42.544 INFO Everything is fine
+2021-04-01 13:14:45.014 INFO Everything is fine
+2021-04-01 13:14:33.728 INFO Everything is fine
+2021-04-01 13:14:40.426 INFO Everything is fine
+2021-04-01 13:14:35.987 ERROR Feature 2 made an error
+2021-04-01 13:14:30.390 INFO Everything is fine
+2021-04-01 13:14:41.957 INFO Everything is fine
+2021-04-01 13:14:53.754 INFO Everything is fine
+2021-04-01 13:14:34.158 ERROR Feature 2 made an error
+2021-04-01 13:14:54.943 INFO Everything is fine
+2021-04-01 13:14:50.823 INFO Everything is fine
+2021-04-01 13:14:30.504 INFO Everything is fine
+2021-04-01 13:14:51.011 INFO Everything is fine
+2021-04-01 13:14:31.670 INFO Everything is fine
+2021-04-01 13:14:33.280 WARNING Something is bad, but ok
+2021-04-01 13:14:34.983 INFO Everything is fine
+2021-04-01 13:14:54.380 INFO Everything is fine
+2021-04-01 13:14:48.239 INFO Everything is fine
+2021-04-01 13:14:35.399 ERROR Feature 2 made an error
+2021-04-01 13:14:39.274 INFO Everything is fine
+2021-04-01 13:14:35.118 INFO Everything is fine
+2021-04-01 13:14:51.086 INFO Everything is fine
+2021-04-01 13:14:45.656 INFO Everything is fine
+2021-04-01 13:14:37.231 INFO Everything is fine
+2021-04-01 13:14:38.182 INFO Everything is fine
+2021-04-01 13:14:34.177 ERROR Feature 2 made an error
+2021-04-01 13:14:51.538 INFO Everything is fine
+2021-04-01 13:14:47.464 INFO Everything is fine
+2021-04-01 13:14:46.975 INFO Everything is fine
+2021-04-01 13:14:30.867 INFO Everything is fine
+2021-04-01 13:14:41.330 INFO Everything is fine
+2021-04-01 13:14:40.987 INFO Everything is fine
+2021-04-01 13:14:45.204 INFO Everything is fine
+2021-04-01 13:14:48.671 INFO Everything is fine
+2021-04-01 13:14:32.493 WARNING Something is bad, but ok
+2021-04-01 13:14:49.721 INFO Everything is fine
+2021-04-01 13:14:41.841 INFO Everything is fine
+2021-04-01 13:14:54.576 INFO Everything is fine
+2021-04-01 13:14:46.464 INFO Everything is fine
+2021-04-01 13:14:47.864 INFO Everything is fine
+2021-04-01 13:14:32.985 WARNING Something is bad, but ok
+2021-04-01 13:14:36.492 INFO Everything is fine
+2021-04-01 13:14:38.340 INFO Everything is fine
+2021-04-01 13:14:34.982 INFO Everything is fine
+2021-04-01 13:14:32.757 WARNING Something is bad, but ok
+2021-04-01 13:14:46.537 INFO Everything is fine
+2021-04-01 13:14:39.949 INFO Everything is fine
+2021-04-01 13:14:40.746 INFO Everything is fine
+2021-04-01 13:14:53.904 INFO Everything is fine
+2021-04-01 13:14:46.081 INFO Everything is fine
+2021-04-01 13:14:48.454 INFO Everything is fine
+2021-04-01 13:14:52.875 INFO Everything is fine
+2021-04-01 13:14:36.663 INFO Everything is fine
+2021-04-01 13:14:51.416 INFO Everything is fine
+2021-04-01 13:14:45.042 INFO Everything is fine
+2021-04-01 13:14:42.888 INFO Everything is fine
+2021-04-01 13:14:41.644 INFO Everything is fine
+2021-04-01 13:14:30.481 INFO Everything is fine
+2021-04-01 13:14:37.223 INFO Everything is fine
+2021-04-01 13:14:55.161 INFO Everything is fine
+2021-04-01 13:14:51.339 INFO Everything is fine
+2021-04-01 13:14:49.529 INFO Everything is fine
+2021-04-01 13:14:33.885 INFO Everything is fine
+2021-04-01 13:14:49.796 INFO Everything is fine
+2021-04-01 13:14:32.604 WARNING Something is bad, but ok
+2021-04-01 13:14:32.335 WARNING Something is bad, but ok
+2021-04-01 13:14:42.063 INFO Everything is fine
+2021-04-01 13:14:54.403 INFO Everything is fine
+2021-04-01 13:14:39.670 INFO Everything is fine
+2021-04-01 13:14:37.454 INFO Everything is fine
+2021-04-01 13:14:49.846 INFO Everything is fine
+2021-04-01 13:14:45.711 INFO Everything is fine
+2021-04-01 13:14:34.110 INFO Everything is fine
+2021-04-01 13:14:47.874 INFO Everything is fine
+2021-04-01 13:14:38.810 INFO Everything is fine
+2021-04-01 13:14:51.551 INFO Everything is fine
+2021-04-01 13:14:40.859 INFO Everything is fine
+2021-04-01 13:14:36.765 INFO Everything is fine
+2021-04-01 13:14:53.602 INFO Everything is fine
+2021-04-01 13:14:45.935 INFO Everything is fine
+2021-04-01 13:14:31.633 INFO Everything is fine
+2021-04-01 13:14:44.889 INFO Everything is fine
+2021-04-01 13:14:48.870 INFO Everything is fine
+2021-04-01 13:14:46.951 INFO Everything is fine
+2021-04-01 13:14:48.055 INFO Everything is fine
+2021-04-01 13:14:51.929 INFO Everything is fine
+2021-04-01 13:14:33.644 ERROR Feature 3 made an error
+2021-04-01 13:14:53.943 INFO Everything is fine
+2021-04-01 13:14:42.208 INFO Everything is fine
+2021-04-01 13:14:35.571 INFO Everything is fine
+2021-04-01 13:14:30.813 INFO Everything is fine
+2021-04-01 13:14:30.482 INFO Everything is fine
+2021-04-01 13:14:34.999 ERROR Feature 2 made an error
+2021-04-01 13:14:54.122 INFO Everything is fine
+2021-04-01 13:14:42.877 INFO Everything is fine
+2021-04-01 13:14:49.214 INFO Everything is fine
+2021-04-01 13:14:41.407 INFO Everything is fine
+2021-04-01 13:14:53.391 INFO Everything is fine
+2021-04-01 13:14:32.594 INFO Everything is fine
+2021-04-01 13:14:35.612 ERROR Feature 2 made an error
+2021-04-01 13:14:33.042 WARNING Something is bad, but ok
+2021-04-01 13:14:49.354 INFO Everything is fine
+2021-04-01 13:14:46.149 INFO Everything is fine
+2021-04-01 13:14:46.409 INFO Everything is fine
+2021-04-01 13:14:35.490 INFO Everything is fine
+2021-04-01 13:14:32.738 WARNING Something is bad, but ok
+2021-04-01 13:14:38.200 INFO Everything is fine
+2021-04-01 13:14:35.247 ERROR Feature 2 made an error
+2021-04-01 13:14:37.729 INFO Everything is fine
+2021-04-01 13:14:39.497 INFO Everything is fine
+2021-04-01 13:14:45.712 INFO Everything is fine
+2021-04-01 13:14:47.320 INFO Everything is fine
+2021-04-01 13:14:45.741 INFO Everything is fine
+2021-04-01 13:14:53.126 INFO Everything is fine
+2021-04-01 13:14:44.312 INFO Everything is fine
+2021-04-01 13:14:37.841 INFO Everything is fine
+2021-04-01 13:14:49.398 INFO Everything is fine
+2021-04-01 13:14:51.607 INFO Everything is fine
+2021-04-01 13:14:37.774 INFO Everything is fine
+2021-04-01 13:14:37.407 INFO Everything is fine
+2021-04-01 13:14:44.169 INFO Everything is fine
+2021-04-01 13:14:53.427 INFO Everything is fine
+2021-04-01 13:14:51.097 INFO Everything is fine
+2021-04-01 13:14:54.698 INFO Everything is fine
+2021-04-01 13:14:30.760 INFO Everything is fine
+2021-04-01 13:14:46.711 INFO Everything is fine
+2021-04-01 13:14:40.151 INFO Everything is fine
+2021-04-01 13:14:53.882 INFO Everything is fine
+2021-04-01 13:14:38.237 INFO Everything is fine
+2021-04-01 13:14:37.926 INFO Everything is fine
+2021-04-01 13:14:46.754 INFO Everything is fine
+2021-04-01 13:14:40.268 INFO Everything is fine
+2021-04-01 13:14:51.492 INFO Everything is fine
+2021-04-01 13:14:46.773 INFO Everything is fine
+2021-04-01 13:14:32.177 INFO Everything is fine
+2021-04-01 13:14:31.096 INFO Everything is fine
+2021-04-01 13:14:35.935 INFO Everything is fine
+2021-04-01 13:14:35.688 INFO Everything is fine
+2021-04-01 13:14:38.333 INFO Everything is fine
+2021-04-01 13:14:45.149 INFO Everything is fine
+2021-04-01 13:14:53.972 INFO Everything is fine
+2021-04-01 13:14:44.371 INFO Everything is fine
+2021-04-01 13:14:40.402 INFO Everything is fine
+2021-04-01 13:14:49.552 INFO Everything is fine
+2021-04-01 13:14:51.049 INFO Everything is fine
+2021-04-01 13:14:49.543 INFO Everything is fine
+2021-04-01 13:14:33.283 WARNING Something is bad, but ok
+2021-04-01 13:14:47.552 INFO Everything is fine
+2021-04-01 13:14:37.318 INFO Everything is fine
+2021-04-01 13:14:31.657 INFO Everything is fine
+2021-04-01 13:14:48.632 INFO Everything is fine
+2021-04-01 13:14:36.168 ERROR Feature 2 made an error
+2021-04-01 13:14:50.631 INFO Everything is fine
+2021-04-01 13:14:39.939 INFO Everything is fine
+2021-04-01 13:14:38.093 INFO Everything is fine
+2021-04-01 13:14:33.276 WARNING Something is bad, but ok
+2021-04-01 13:14:53.397 INFO Everything is fine
+2021-04-01 13:14:53.617 INFO Everything is fine
+2021-04-01 13:14:30.494 INFO Everything is fine
+2021-04-01 13:14:40.294 INFO Everything is fine
+2021-04-01 13:14:40.665 INFO Everything is fine
+2021-04-01 13:14:30.871 INFO Everything is fine
+2021-04-01 13:14:33.820 ERROR Feature 2 made an error
+2021-04-01 13:14:39.014 INFO Everything is fine
+2021-04-01 13:14:33.727 ERROR Feature 3 made an error
+2021-04-01 13:14:30.532 INFO Everything is fine
+2021-04-01 13:14:41.507 INFO Everything is fine
+2021-04-01 13:14:48.219 INFO Everything is fine
+2021-04-01 13:14:53.887 INFO Everything is fine
+2021-04-01 13:14:44.641 INFO Everything is fine
+2021-04-01 13:14:32.170 INFO Everything is fine
+2021-04-01 13:14:49.318 INFO Everything is fine
+2021-04-01 13:14:35.997 ERROR Feature 2 made an error
+2021-04-01 13:14:33.626 INFO Everything is fine
+2021-04-01 13:14:44.988 INFO Everything is fine
+2021-04-01 13:14:52.209 INFO Everything is fine
+2021-04-01 13:14:45.971 INFO Everything is fine
+2021-04-01 13:14:41.446 INFO Everything is fine
+2021-04-01 13:14:40.506 INFO Everything is fine
+2021-04-01 13:14:53.494 INFO Everything is fine
+2021-04-01 13:14:32.412 WARNING Something is bad, but ok
+2021-04-01 13:14:30.975 INFO Everything is fine
+2021-04-01 13:14:38.550 INFO Everything is fine
+2021-04-01 13:14:36.017 ERROR Feature 2 made an error
+2021-04-01 13:14:52.341 INFO Everything is fine
+2021-04-01 13:14:32.956 WARNING Something is bad, but ok
+2021-04-01 13:14:48.533 INFO Everything is fine
+2021-04-01 13:14:33.944 INFO Everything is fine
+2021-04-01 13:14:51.314 INFO Everything is fine
+2021-04-01 13:14:36.579 INFO Everything is fine
+2021-04-01 13:14:45.682 INFO Everything is fine
+2021-04-01 13:14:51.041 INFO Everything is fine
+2021-04-01 13:14:46.031 INFO Everything is fine
+2021-04-01 13:14:40.978 INFO Everything is fine
+2021-04-01 13:14:49.455 INFO Everything is fine
+2021-04-01 13:14:41.139 INFO Everything is fine
+2021-04-01 13:14:38.017 INFO Everything is fine
+2021-04-01 13:14:36.691 INFO Everything is fine
+2021-04-01 13:14:48.306 INFO Everything is fine
+2021-04-01 13:14:42.638 INFO Everything is fine
+2021-04-01 13:14:36.344 INFO Everything is fine
+2021-04-01 13:14:54.855 INFO Everything is fine
+2021-04-01 13:14:47.444 INFO Everything is fine
+2021-04-01 13:14:39.161 INFO Everything is fine
+2021-04-01 13:14:30.709 INFO Everything is fine
+2021-04-01 13:14:53.834 INFO Everything is fine
+2021-04-01 13:14:54.270 INFO Everything is fine
+2021-04-01 13:14:53.750 INFO Everything is fine
+2021-04-01 13:14:33.280 WARNING Something is bad, but ok
+2021-04-01 13:14:52.812 INFO Everything is fine
+2021-04-01 13:14:37.155 INFO Everything is fine
+2021-04-01 13:14:37.334 INFO Everything is fine
+2021-04-01 13:14:33.866 ERROR Feature 2 made an error
+2021-04-01 13:14:37.900 INFO Everything is fine
+2021-04-01 13:14:39.404 INFO Everything is fine
+2021-04-01 13:14:54.371 INFO Everything is fine
+2021-04-01 13:14:39.964 INFO Everything is fine
+2021-04-01 13:14:55.053 INFO Everything is fine
+2021-04-01 13:14:47.330 INFO Everything is fine
+2021-04-01 13:14:41.446 INFO Everything is fine
+2021-04-01 13:14:32.726 WARNING Something is bad, but ok
+2021-04-01 13:14:54.093 INFO Everything is fine
+2021-04-01 13:14:46.958 INFO Everything is fine
+2021-04-01 13:14:30.898 INFO Everything is fine
+2021-04-01 13:14:31.581 INFO Everything is fine
+2021-04-01 13:14:53.056 INFO Everything is fine
+2021-04-01 13:14:43.548 INFO Everything is fine
+2021-04-01 13:14:33.818 ERROR Feature 3 made an error
+2021-04-01 13:14:37.260 INFO Everything is fine
+2021-04-01 13:14:46.988 INFO Everything is fine
+2021-04-01 13:14:49.692 INFO Everything is fine
+2021-04-01 13:14:34.159 ERROR Feature 2 made an error
+2021-04-01 13:14:34.747 ERROR Feature 2 made an error
+2021-04-01 13:14:31.154 INFO Everything is fine
+2021-04-01 13:14:37.478 INFO Everything is fine
+2021-04-01 13:14:39.558 INFO Everything is fine
+2021-04-01 13:14:35.165 ERROR Feature 1 made an error
+2021-04-01 13:14:44.115 INFO Everything is fine
+2021-04-01 13:14:32.053 INFO Everything is fine
+2021-04-01 13:14:36.358 INFO Everything is fine
+2021-04-01 13:14:45.827 INFO Everything is fine
+2021-04-01 13:14:48.512 INFO Everything is fine
+2021-04-01 13:14:44.155 INFO Everything is fine
+2021-04-01 13:14:52.612 INFO Everything is fine
+2021-04-01 13:14:32.822 WARNING Something is bad, but ok
+2021-04-01 13:14:38.752 INFO Everything is fine
+2021-04-01 13:14:54.590 INFO Everything is fine
+2021-04-01 13:14:53.919 INFO Everything is fine
+2021-04-01 13:14:33.125 WARNING Something is bad, but ok
+2021-04-01 13:14:40.332 INFO Everything is fine
+2021-04-01 13:14:46.812 INFO Everything is fine
+2021-04-01 13:14:47.562 INFO Everything is fine
+2021-04-01 13:14:41.295 INFO Everything is fine
+2021-04-01 13:14:32.545 INFO Everything is fine
+2021-04-01 13:14:47.718 INFO Everything is fine
+2021-04-01 13:14:32.242 INFO Everything is fine
+2021-04-01 13:14:41.885 INFO Everything is fine
+2021-04-01 13:14:32.605 INFO Everything is fine
+2021-04-01 13:14:41.189 INFO Everything is fine
+2021-04-01 13:14:43.837 INFO Everything is fine
+2021-04-01 13:14:53.386 INFO Everything is fine
+2021-04-01 13:14:48.687 INFO Everything is fine
+2021-04-01 13:14:51.354 INFO Everything is fine
+2021-04-01 13:14:32.528 WARNING Something is bad, but ok
+2021-04-01 13:14:52.779 INFO Everything is fine
+2021-04-01 13:14:34.583 INFO Everything is fine
+2021-04-01 13:14:54.589 INFO Everything is fine
+2021-04-01 13:14:52.559 INFO Everything is fine
+2021-04-01 13:14:41.132 INFO Everything is fine
+2021-04-01 13:14:32.418 WARNING Something is bad, but ok
+2021-04-01 13:14:30.936 INFO Everything is fine
+2021-04-01 13:14:53.636 INFO Everything is fine
+2021-04-01 13:14:33.574 ERROR Feature 3 made an error
+2021-04-01 13:14:54.438 INFO Everything is fine
+2021-04-01 13:14:50.941 INFO Everything is fine
+2021-04-01 13:14:40.687 INFO Everything is fine
+2021-04-01 13:14:40.353 INFO Everything is fine
+2021-04-01 13:14:54.816 INFO Everything is fine
+2021-04-01 13:14:54.132 INFO Everything is fine
+2021-04-01 13:14:44.214 INFO Everything is fine
+2021-04-01 13:14:36.650 INFO Everything is fine
+2021-04-01 13:14:34.263 ERROR Feature 2 made an error
+2021-04-01 13:14:52.003 INFO Everything is fine
+2021-04-01 13:14:34.399 INFO Everything is fine
+2021-04-01 13:14:52.844 INFO Everything is fine
+2021-04-01 13:14:41.835 INFO Everything is fine
+2021-04-01 13:14:51.080 INFO Everything is fine
+2021-04-01 13:14:37.482 INFO Everything is fine
+2021-04-01 13:14:41.369 INFO Everything is fine
+2021-04-01 13:14:45.375 INFO Everything is fine
+2021-04-01 13:14:42.255 INFO Everything is fine
+2021-04-01 13:14:50.731 INFO Everything is fine
+2021-04-01 13:14:45.993 INFO Everything is fine
+2021-04-01 13:14:49.840 INFO Everything is fine
+2021-04-01 13:14:52.700 INFO Everything is fine
+2021-04-01 13:14:46.420 INFO Everything is fine
+2021-04-01 13:14:52.817 INFO Everything is fine
+2021-04-01 13:14:37.311 INFO Everything is fine
+2021-04-01 13:14:51.341 INFO Everything is fine
+2021-04-01 13:14:40.222 INFO Everything is fine
+2021-04-01 13:14:41.886 INFO Everything is fine
+2021-04-01 13:14:53.324 INFO Everything is fine
+2021-04-01 13:14:38.994 INFO Everything is fine
+2021-04-01 13:14:38.307 INFO Everything is fine
+2021-04-01 13:14:38.275 INFO Everything is fine
+2021-04-01 13:14:39.805 INFO Everything is fine
+2021-04-01 13:14:53.870 INFO Everything is fine
+2021-04-01 13:14:34.907 INFO Everything is fine
+2021-04-01 13:14:35.331 ERROR Feature 3 made an error
+2021-04-01 13:14:49.577 INFO Everything is fine
+2021-04-01 13:14:43.273 INFO Everything is fine
+2021-04-01 13:14:34.594 ERROR Feature 2 made an error
+2021-04-01 13:14:49.170 INFO Everything is fine
+2021-04-01 13:14:38.927 INFO Everything is fine
+2021-04-01 13:14:49.579 INFO Everything is fine
+2021-04-01 13:14:35.472 ERROR Feature 2 made an error
+2021-04-01 13:14:41.858 INFO Everything is fine
+2021-04-01 13:14:32.447 WARNING Something is bad, but ok
+2021-04-01 13:14:44.536 INFO Everything is fine
+2021-04-01 13:14:40.936 INFO Everything is fine
+2021-04-01 13:14:49.602 INFO Everything is fine
+2021-04-01 13:14:31.182 INFO Everything is fine
+2021-04-01 13:14:55.287 INFO Everything is fine
+2021-04-01 13:14:48.925 INFO Everything is fine
+2021-04-01 13:14:40.357 INFO Everything is fine
+2021-04-01 13:14:44.703 INFO Everything is fine
+2021-04-01 13:14:36.396 INFO Everything is fine
+2021-04-01 13:14:52.592 INFO Everything is fine
+2021-04-01 13:14:34.125 ERROR Feature 1 made an error
+2021-04-01 13:14:39.068 INFO Everything is fine
+2021-04-01 13:14:50.372 INFO Everything is fine
+2021-04-01 13:14:50.447 INFO Everything is fine
+2021-04-01 13:14:49.194 INFO Everything is fine
+2021-04-01 13:14:38.562 INFO Everything is fine
+2021-04-01 13:14:54.740 INFO Everything is fine
+2021-04-01 13:14:32.976 INFO Everything is fine
+2021-04-01 13:14:38.486 INFO Everything is fine
+2021-04-01 13:14:39.818 INFO Everything is fine
+2021-04-01 13:14:49.217 INFO Everything is fine
+2021-04-01 13:14:54.045 INFO Everything is fine
+2021-04-01 13:14:32.900 WARNING Something is bad, but ok
+2021-04-01 13:14:32.662 WARNING Something is bad, but ok
+2021-04-01 13:14:50.118 INFO Everything is fine
+2021-04-01 13:14:36.367 INFO Everything is fine
+2021-04-01 13:14:40.419 INFO Everything is fine
+2021-04-01 13:14:50.681 INFO Everything is fine
+2021-04-01 13:14:39.474 INFO Everything is fine
+2021-04-01 13:14:44.781 INFO Everything is fine
+2021-04-01 13:14:38.635 INFO Everything is fine
+2021-04-01 13:14:47.472 INFO Everything is fine
+2021-04-01 13:14:33.980 INFO Everything is fine
+2021-04-01 13:14:43.158 INFO Everything is fine
+2021-04-01 13:14:45.756 INFO Everything is fine
+2021-04-01 13:14:46.431 INFO Everything is fine
+2021-04-01 13:14:42.706 INFO Everything is fine
+2021-04-01 13:14:43.036 INFO Everything is fine
+2021-04-01 13:14:48.685 INFO Everything is fine
+2021-04-01 13:14:32.733 WARNING Something is bad, but ok
+2021-04-01 13:14:35.654 ERROR Feature 2 made an error
+2021-04-01 13:14:47.510 INFO Everything is fine
+2021-04-01 13:14:31.730 INFO Everything is fine
+2021-04-01 13:14:44.429 INFO Everything is fine
+2021-04-01 13:14:42.914 INFO Everything is fine
+2021-04-01 13:14:36.175 ERROR Feature 1 made an error
+2021-04-01 13:14:39.011 INFO Everything is fine
+2021-04-01 13:14:43.170 INFO Everything is fine
+2021-04-01 13:14:48.314 INFO Everything is fine
+2021-04-01 13:14:51.909 INFO Everything is fine
+2021-04-01 13:14:52.832 INFO Everything is fine
+2021-04-01 13:14:50.930 INFO Everything is fine
+2021-04-01 13:14:39.436 INFO Everything is fine
+2021-04-01 13:14:52.868 INFO Everything is fine
+2021-04-01 13:14:44.821 INFO Everything is fine
+2021-04-01 13:14:46.777 INFO Everything is fine
+2021-04-01 13:14:49.383 INFO Everything is fine
+2021-04-01 13:14:41.653 INFO Everything is fine
+2021-04-01 13:14:37.996 INFO Everything is fine
+2021-04-01 13:14:42.690 INFO Everything is fine
+2021-04-01 13:14:53.179 INFO Everything is fine
+2021-04-01 13:14:46.742 INFO Everything is fine
+2021-04-01 13:14:48.628 INFO Everything is fine
+2021-04-01 13:14:43.807 INFO Everything is fine
+2021-04-01 13:14:33.206 WARNING Something is bad, but ok
+2021-04-01 13:14:35.934 ERROR Feature 2 made an error
+2021-04-01 13:14:55.300 INFO Everything is fine
+2021-04-01 13:14:32.919 WARNING Something is bad, but ok
+2021-04-01 13:14:45.653 INFO Everything is fine
+2021-04-01 13:14:50.052 INFO Everything is fine
+2021-04-01 13:14:44.722 INFO Everything is fine
+2021-04-01 13:14:44.901 INFO Everything is fine
+2021-04-01 13:14:39.531 INFO Everything is fine
+2021-04-01 13:14:35.780 INFO Everything is fine
+2021-04-01 13:14:37.291 INFO Everything is fine
+2021-04-01 13:14:53.016 INFO Everything is fine
+2021-04-01 13:14:51.824 INFO Everything is fine
+2021-04-01 13:14:48.210 INFO Everything is fine
+2021-04-01 13:14:39.614 INFO Everything is fine
+2021-04-01 13:14:35.903 ERROR Feature 2 made an error
+2021-04-01 13:14:41.790 INFO Everything is fine
+2021-04-01 13:14:47.506 INFO Everything is fine
+2021-04-01 13:14:48.338 INFO Everything is fine
+2021-04-01 13:14:31.080 INFO Everything is fine
+2021-04-01 13:14:40.639 INFO Everything is fine
+2021-04-01 13:14:39.908 INFO Everything is fine
+2021-04-01 13:14:33.935 ERROR Feature 2 made an error
+2021-04-01 13:14:37.251 INFO Everything is fine
+2021-04-01 13:14:42.074 INFO Everything is fine
+2021-04-01 13:14:49.445 INFO Everything is fine
+2021-04-01 13:14:33.673 INFO Everything is fine
+2021-04-01 13:14:49.385 INFO Everything is fine
+2021-04-01 13:14:45.852 INFO Everything is fine
+2021-04-01 13:14:36.766 INFO Everything is fine
+2021-04-01 13:14:47.656 INFO Everything is fine
+2021-04-01 13:14:31.724 INFO Everything is fine
+2021-04-01 13:14:37.572 INFO Everything is fine
+2021-04-01 13:14:41.042 INFO Everything is fine
+2021-04-01 13:14:48.794 INFO Everything is fine
+2021-04-01 13:14:50.540 INFO Everything is fine
+2021-04-01 13:14:38.031 INFO Everything is fine
+2021-04-01 13:14:38.191 INFO Everything is fine
+2021-04-01 13:14:32.845 WARNING Something is bad, but ok
+2021-04-01 13:14:36.427 INFO Everything is fine
+2021-04-01 13:14:44.131 INFO Everything is fine
+2021-04-01 13:14:50.158 INFO Everything is fine
+2021-04-01 13:14:46.534 INFO Everything is fine
+2021-04-01 13:14:46.346 INFO Everything is fine
+2021-04-01 13:14:50.423 INFO Everything is fine
+2021-04-01 13:14:31.429 INFO Everything is fine
+2021-04-01 13:14:46.767 INFO Everything is fine
+2021-04-01 13:14:52.458 INFO Everything is fine
+2021-04-01 13:14:50.637 INFO Everything is fine
+2021-04-01 13:14:32.246 INFO Everything is fine
+2021-04-01 13:14:44.590 INFO Everything is fine
+2021-04-01 13:14:32.872 WARNING Something is bad, but ok
+2021-04-01 13:14:43.854 INFO Everything is fine
+2021-04-01 13:14:44.665 INFO Everything is fine
+2021-04-01 13:14:49.502 INFO Everything is fine
+2021-04-01 13:14:48.567 INFO Everything is fine
+2021-04-01 13:14:51.189 INFO Everything is fine
+2021-04-01 13:14:49.924 INFO Everything is fine
+2021-04-01 13:14:42.124 INFO Everything is fine
+2021-04-01 13:14:33.282 WARNING Something is bad, but ok
+2021-04-01 13:14:45.036 INFO Everything is fine
+2021-04-01 13:14:51.684 INFO Everything is fine
+2021-04-01 13:14:52.032 INFO Everything is fine
+2021-04-01 13:14:54.438 INFO Everything is fine
+2021-04-01 13:14:37.360 INFO Everything is fine
+2021-04-01 13:14:33.636 INFO Everything is fine
+2021-04-01 13:14:42.925 INFO Everything is fine
+2021-04-01 13:14:46.938 INFO Everything is fine
+2021-04-01 13:14:51.069 INFO Everything is fine
+2021-04-01 13:14:37.596 INFO Everything is fine
+2021-04-01 13:14:32.945 WARNING Something is bad, but ok
+2021-04-01 13:14:52.791 INFO Everything is fine
+2021-04-01 13:14:53.344 INFO Everything is fine
+2021-04-01 13:14:50.042 INFO Everything is fine
+2021-04-01 13:14:32.519 WARNING Something is bad, but ok
+2021-04-01 13:14:43.189 INFO Everything is fine
+2021-04-01 13:14:42.392 INFO Everything is fine
+2021-04-01 13:14:39.826 INFO Everything is fine
+2021-04-01 13:14:34.162 INFO Everything is fine
+2021-04-01 13:14:30.703 INFO Everything is fine
+2021-04-01 13:14:47.977 INFO Everything is fine
+2021-04-01 13:14:51.391 INFO Everything is fine
+2021-04-01 13:14:31.117 INFO Everything is fine
+2021-04-01 13:14:44.632 INFO Everything is fine
+2021-04-01 13:14:42.098 INFO Everything is fine
+2021-04-01 13:14:45.901 INFO Everything is fine
+2021-04-01 13:14:46.178 INFO Everything is fine
+2021-04-01 13:14:33.299 WARNING Something is bad, but ok
+2021-04-01 13:14:32.772 WARNING Something is bad, but ok
+2021-04-01 13:14:53.713 INFO Everything is fine
+2021-04-01 13:14:50.752 INFO Everything is fine
+2021-04-01 13:14:47.067 INFO Everything is fine
+2021-04-01 13:14:34.048 ERROR Feature 3 made an error
+2021-04-01 13:14:31.761 INFO Everything is fine
+2021-04-01 13:14:50.145 INFO Everything is fine
+2021-04-01 13:14:50.170 INFO Everything is fine
+2021-04-01 13:14:41.356 INFO Everything is fine
+2021-04-01 13:14:36.703 INFO Everything is fine
+2021-04-01 13:14:46.055 INFO Everything is fine
+2021-04-01 13:14:32.987 WARNING Something is bad, but ok
+2021-04-01 13:14:52.923 INFO Everything is fine
+2021-04-01 13:14:32.478 WARNING Something is bad, but ok
+2021-04-01 13:14:51.994 INFO Everything is fine
+2021-04-01 13:14:49.444 INFO Everything is fine
+2021-04-01 13:14:31.611 INFO Everything is fine
+2021-04-01 13:14:51.899 INFO Everything is fine
+2021-04-01 13:14:47.261 INFO Everything is fine
+2021-04-01 13:14:32.148 INFO Everything is fine
+2021-04-01 13:14:37.372 INFO Everything is fine
+2021-04-01 13:14:52.496 INFO Everything is fine
+2021-04-01 13:14:35.726 ERROR Feature 2 made an error
+2021-04-01 13:14:53.348 INFO Everything is fine
+2021-04-01 13:14:35.842 INFO Everything is fine
+2021-04-01 13:14:40.716 INFO Everything is fine
+2021-04-01 13:14:43.266 INFO Everything is fine
+2021-04-01 13:14:37.989 INFO Everything is fine
+2021-04-01 13:14:32.937 WARNING Something is bad, but ok
+2021-04-01 13:14:31.089 INFO Everything is fine
+2021-04-01 13:14:53.307 INFO Everything is fine
+2021-04-01 13:14:37.213 INFO Everything is fine
+2021-04-01 13:14:30.522 INFO Everything is fine
+2021-04-01 13:14:49.931 INFO Everything is fine
+2021-04-01 13:14:49.314 INFO Everything is fine
+2021-04-01 13:14:51.328 INFO Everything is fine
+2021-04-01 13:14:39.785 INFO Everything is fine
+2021-04-01 13:14:34.056 INFO Everything is fine
+2021-04-01 13:14:51.623 INFO Everything is fine
+2021-04-01 13:14:48.767 INFO Everything is fine
+2021-04-01 13:14:53.819 INFO Everything is fine
+2021-04-01 13:14:39.348 INFO Everything is fine
+2021-04-01 13:14:44.209 INFO Everything is fine
+2021-04-01 13:14:54.760 INFO Everything is fine
+2021-04-01 13:14:43.447 INFO Everything is fine
+2021-04-01 13:14:54.472 INFO Everything is fine
+2021-04-01 13:14:48.081 INFO Everything is fine
+2021-04-01 13:14:44.130 INFO Everything is fine
+2021-04-01 13:14:50.521 INFO Everything is fine
+2021-04-01 13:14:46.839 INFO Everything is fine
+2021-04-01 13:14:42.233 INFO Everything is fine
+2021-04-01 13:14:43.900 INFO Everything is fine
+2021-04-01 13:14:43.614 INFO Everything is fine
+2021-04-01 13:14:40.929 INFO Everything is fine
+2021-04-01 13:14:33.514 INFO Everything is fine
+2021-04-01 13:14:38.816 INFO Everything is fine
+2021-04-01 13:14:31.519 INFO Everything is fine
+2021-04-01 13:14:49.510 INFO Everything is fine
+2021-04-01 13:14:42.491 INFO Everything is fine
+2021-04-01 13:14:44.458 INFO Everything is fine
+2021-04-01 13:14:45.395 INFO Everything is fine
+2021-04-01 13:14:35.538 INFO Everything is fine
+2021-04-01 13:14:46.874 INFO Everything is fine
+2021-04-01 13:14:45.040 INFO Everything is fine
+2021-04-01 13:14:52.744 INFO Everything is fine
+2021-04-01 13:14:50.242 INFO Everything is fine
+2021-04-01 13:14:38.630 INFO Everything is fine
+2021-04-01 13:14:50.553 INFO Everything is fine
+2021-04-01 13:14:44.044 INFO Everything is fine
+2021-04-01 13:14:38.127 INFO Everything is fine
+2021-04-01 13:14:47.553 INFO Everything is fine
+2021-04-01 13:14:53.747 INFO Everything is fine
+2021-04-01 13:14:45.392 INFO Everything is fine
+2021-04-01 13:14:34.693 INFO Everything is fine
+2021-04-01 13:14:44.435 INFO Everything is fine
+2021-04-01 13:14:41.773 INFO Everything is fine
+2021-04-01 13:14:50.436 INFO Everything is fine
+2021-04-01 13:14:46.035 INFO Everything is fine
+2021-04-01 13:14:38.420 INFO Everything is fine
+2021-04-01 13:14:34.239 INFO Everything is fine
+2021-04-01 13:14:41.647 INFO Everything is fine
+2021-04-01 13:14:42.128 INFO Everything is fine
+2021-04-01 13:14:47.648 INFO Everything is fine
+2021-04-01 13:14:37.223 INFO Everything is fine
+2021-04-01 13:14:46.736 INFO Everything is fine
+2021-04-01 13:14:45.427 INFO Everything is fine
+2021-04-01 13:14:31.426 INFO Everything is fine
+2021-04-01 13:14:51.189 INFO Everything is fine
+2021-04-01 13:14:52.709 INFO Everything is fine
+2021-04-01 13:14:38.950 INFO Everything is fine
+2021-04-01 13:14:41.007 INFO Everything is fine
+2021-04-01 13:14:54.744 INFO Everything is fine
+2021-04-01 13:14:39.699 INFO Everything is fine
+2021-04-01 13:14:53.427 INFO Everything is fine
+2021-04-01 13:14:42.821 INFO Everything is fine
+2021-04-01 13:14:50.397 INFO Everything is fine
+2021-04-01 13:14:33.717 ERROR Feature 2 made an error
+2021-04-01 13:14:43.743 INFO Everything is fine
+2021-04-01 13:14:40.271 INFO Everything is fine
+2021-04-01 13:14:41.372 INFO Everything is fine
+2021-04-01 13:14:41.705 INFO Everything is fine
+2021-04-01 13:14:33.117 WARNING Something is bad, but ok
+2021-04-01 13:14:42.049 INFO Everything is fine
+2021-04-01 13:14:54.518 INFO Everything is fine
+2021-04-01 13:14:51.334 INFO Everything is fine
+2021-04-01 13:14:46.725 INFO Everything is fine
+2021-04-01 13:14:34.693 INFO Everything is fine
+2021-04-01 13:14:34.276 INFO Everything is fine
+2021-04-01 13:14:50.941 INFO Everything is fine
+2021-04-01 13:14:51.594 INFO Everything is fine
+2021-04-01 13:14:37.706 INFO Everything is fine
+2021-04-01 13:14:48.109 INFO Everything is fine
+2021-04-01 13:14:41.147 INFO Everything is fine
+2021-04-01 13:14:41.145 INFO Everything is fine
+2021-04-01 13:14:30.872 INFO Everything is fine
+2021-04-01 13:14:32.876 WARNING Something is bad, but ok
+2021-04-01 13:14:48.976 INFO Everything is fine
+2021-04-01 13:14:32.569 WARNING Something is bad, but ok
+2021-04-01 13:14:32.544 WARNING Something is bad, but ok
+2021-04-01 13:14:33.162 WARNING Something is bad, but ok
+2021-04-01 13:14:49.917 INFO Everything is fine
+2021-04-01 13:14:52.728 INFO Everything is fine
+2021-04-01 13:14:35.059 ERROR Feature 2 made an error
+2021-04-01 13:14:31.237 INFO Everything is fine
+2021-04-01 13:14:43.320 INFO Everything is fine
+2021-04-01 13:14:46.081 INFO Everything is fine
+2021-04-01 13:14:49.631 INFO Everything is fine
+2021-04-01 13:14:48.140 INFO Everything is fine
+2021-04-01 13:14:33.282 WARNING Something is bad, but ok
+2021-04-01 13:14:47.802 INFO Everything is fine
+2021-04-01 13:14:47.461 INFO Everything is fine
+2021-04-01 13:14:40.159 INFO Everything is fine
+2021-04-01 13:14:41.742 INFO Everything is fine
+2021-04-01 13:14:43.614 INFO Everything is fine
+2021-04-01 13:14:33.910 INFO Everything is fine
+2021-04-01 13:14:32.049 INFO Everything is fine
+2021-04-01 13:14:48.672 INFO Everything is fine
+2021-04-01 13:14:50.043 INFO Everything is fine
+2021-04-01 13:14:52.487 INFO Everything is fine
+2021-04-01 13:14:54.554 INFO Everything is fine
+2021-04-01 13:14:37.288 INFO Everything is fine
+2021-04-01 13:14:54.947 INFO Everything is fine
+2021-04-01 13:14:40.176 INFO Everything is fine
+2021-04-01 13:14:39.881 INFO Everything is fine
+2021-04-01 13:14:48.065 INFO Everything is fine
+2021-04-01 13:14:51.728 INFO Everything is fine
+2021-04-01 13:14:48.054 INFO Everything is fine
+2021-04-01 13:14:32.378 WARNING Something is bad, but ok
+2021-04-01 13:14:33.266 WARNING Something is bad, but ok
+2021-04-01 13:14:32.363 WARNING Something is bad, but ok
+2021-04-01 13:14:33.495 ERROR Feature 3 made an error
+2021-04-01 13:14:52.962 INFO Everything is fine
+2021-04-01 13:14:49.003 INFO Everything is fine
+2021-04-01 13:14:31.628 INFO Everything is fine
+2021-04-01 13:14:38.153 INFO Everything is fine
+2021-04-01 13:14:47.929 INFO Everything is fine
+2021-04-01 13:14:35.559 ERROR Feature 3 made an error
+2021-04-01 13:14:32.372 WARNING Something is bad, but ok
+2021-04-01 13:14:54.463 INFO Everything is fine
+2021-04-01 13:14:50.289 INFO Everything is fine
+2021-04-01 13:14:37.952 INFO Everything is fine
+2021-04-01 13:14:43.758 INFO Everything is fine
+2021-04-01 13:14:43.349 INFO Everything is fine
+2021-04-01 13:14:34.428 ERROR Feature 3 made an error
+2021-04-01 13:14:31.932 INFO Everything is fine
+2021-04-01 13:14:36.962 INFO Everything is fine
+2021-04-01 13:14:44.831 INFO Everything is fine
+2021-04-01 13:14:36.339 INFO Everything is fine
+2021-04-01 13:14:33.497 INFO Everything is fine
+2021-04-01 13:14:36.922 INFO Everything is fine
+2021-04-01 13:14:41.724 INFO Everything is fine
+2021-04-01 13:14:33.547 ERROR Feature 1 made an error
+2021-04-01 13:14:38.410 INFO Everything is fine
+2021-04-01 13:14:31.373 INFO Everything is fine
+2021-04-01 13:14:33.053 INFO Everything is fine
+2021-04-01 13:14:44.698 INFO Everything is fine
+2021-04-01 13:14:54.020 INFO Everything is fine
+2021-04-01 13:14:46.175 INFO Everything is fine
+2021-04-01 13:14:42.947 INFO Everything is fine
+2021-04-01 13:14:43.757 INFO Everything is fine
+2021-04-01 13:14:35.549 ERROR Feature 2 made an error
+2021-04-01 13:14:46.819 INFO Everything is fine
+2021-04-01 13:14:33.232 WARNING Something is bad, but ok
+2021-04-01 13:14:47.091 INFO Everything is fine
+2021-04-01 13:14:50.157 INFO Everything is fine
+2021-04-01 13:14:37.294 INFO Everything is fine
+2021-04-01 13:14:36.646 INFO Everything is fine
+2021-04-01 13:14:31.634 INFO Everything is fine
+2021-04-01 13:14:33.785 INFO Everything is fine
+2021-04-01 13:14:34.766 INFO Everything is fine
+2021-04-01 13:14:47.488 INFO Everything is fine
+2021-04-01 13:14:48.522 INFO Everything is fine
+2021-04-01 13:14:45.591 INFO Everything is fine
+2021-04-01 13:14:32.513 WARNING Something is bad, but ok
+2021-04-01 13:14:52.279 INFO Everything is fine
+2021-04-01 13:14:49.604 INFO Everything is fine
+2021-04-01 13:14:30.993 INFO Everything is fine
+2021-04-01 13:14:35.457 ERROR Feature 1 made an error
+2021-04-01 13:14:45.617 INFO Everything is fine
+2021-04-01 13:14:33.544 INFO Everything is fine
+2021-04-01 13:14:39.243 INFO Everything is fine
+2021-04-01 13:14:50.373 INFO Everything is fine
+2021-04-01 13:14:55.106 INFO Everything is fine
+2021-04-01 13:14:54.592 INFO Everything is fine
+2021-04-01 13:14:51.825 INFO Everything is fine
+2021-04-01 13:14:49.380 INFO Everything is fine
+2021-04-01 13:14:36.453 INFO Everything is fine
+2021-04-01 13:14:33.013 WARNING Something is bad, but ok
+2021-04-01 13:14:48.939 INFO Everything is fine
+2021-04-01 13:14:39.589 INFO Everything is fine
+2021-04-01 13:14:36.106 ERROR Feature 3 made an error
+2021-04-01 13:14:50.289 INFO Everything is fine
+2021-04-01 13:14:41.190 INFO Everything is fine
+2021-04-01 13:14:52.717 INFO Everything is fine
+2021-04-01 13:14:44.587 INFO Everything is fine
+2021-04-01 13:14:54.973 INFO Everything is fine
+2021-04-01 13:14:41.613 INFO Everything is fine
+2021-04-01 13:14:33.765 ERROR Feature 3 made an error
+2021-04-01 13:14:40.977 INFO Everything is fine
+2021-04-01 13:14:45.759 INFO Everything is fine
+2021-04-01 13:14:36.481 INFO Everything is fine
+2021-04-01 13:14:44.386 INFO Everything is fine
+2021-04-01 13:14:52.111 INFO Everything is fine
+2021-04-01 13:14:36.812 INFO Everything is fine
+2021-04-01 13:14:47.750 INFO Everything is fine
+2021-04-01 13:14:43.067 INFO Everything is fine
+2021-04-01 13:14:45.617 INFO Everything is fine
+2021-04-01 13:14:42.740 INFO Everything is fine
+2021-04-01 13:14:36.122 ERROR Feature 2 made an error
+2021-04-01 13:14:50.832 INFO Everything is fine
+2021-04-01 13:14:52.550 INFO Everything is fine
+2021-04-01 13:14:35.739 INFO Everything is fine
+2021-04-01 13:14:45.116 INFO Everything is fine
+2021-04-01 13:14:54.499 INFO Everything is fine
+2021-04-01 13:14:52.592 INFO Everything is fine
+2021-04-01 13:14:47.713 INFO Everything is fine
+2021-04-01 13:14:43.295 INFO Everything is fine
+2021-04-01 13:14:38.634 INFO Everything is fine
+2021-04-01 13:14:32.181 INFO Everything is fine
+2021-04-01 13:14:45.817 INFO Everything is fine
+2021-04-01 13:14:53.072 INFO Everything is fine
+2021-04-01 13:14:53.930 INFO Everything is fine
+2021-04-01 13:14:41.663 INFO Everything is fine
+2021-04-01 13:14:46.966 INFO Everything is fine
+2021-04-01 13:14:47.665 INFO Everything is fine
+2021-04-01 13:14:38.412 INFO Everything is fine
+2021-04-01 13:14:48.932 INFO Everything is fine
+2021-04-01 13:14:43.156 INFO Everything is fine
+2021-04-01 13:14:46.157 INFO Everything is fine
+2021-04-01 13:14:35.058 INFO Everything is fine
+2021-04-01 13:14:30.511 INFO Everything is fine
+2021-04-01 13:14:51.675 INFO Everything is fine
+2021-04-01 13:14:46.258 INFO Everything is fine
+2021-04-01 13:14:33.115 WARNING Something is bad, but ok
+2021-04-01 13:14:46.814 INFO Everything is fine
+2021-04-01 13:14:34.870 ERROR Feature 3 made an error
+2021-04-01 13:14:30.986 INFO Everything is fine
+2021-04-01 13:14:37.568 INFO Everything is fine
+2021-04-01 13:14:42.980 INFO Everything is fine
+2021-04-01 13:14:34.618 ERROR Feature 2 made an error
+2021-04-01 13:14:34.532 ERROR Feature 3 made an error
+2021-04-01 13:14:36.377 INFO Everything is fine
+2021-04-01 13:14:54.722 INFO Everything is fine
+2021-04-01 13:14:43.314 INFO Everything is fine
+2021-04-01 13:14:40.107 INFO Everything is fine
+2021-04-01 13:14:37.905 INFO Everything is fine
+2021-04-01 13:14:48.740 INFO Everything is fine
+2021-04-01 13:14:49.080 INFO Everything is fine
+2021-04-01 13:14:41.441 INFO Everything is fine
+2021-04-01 13:14:33.179 INFO Everything is fine
+2021-04-01 13:14:35.397 ERROR Feature 3 made an error
+2021-04-01 13:14:47.703 INFO Everything is fine
+2021-04-01 13:14:37.242 INFO Everything is fine
+2021-04-01 13:14:42.204 INFO Everything is fine
+2021-04-01 13:14:51.135 INFO Everything is fine
+2021-04-01 13:14:36.797 INFO Everything is fine
+2021-04-01 13:14:51.453 INFO Everything is fine
+2021-04-01 13:14:47.695 INFO Everything is fine
+2021-04-01 13:14:51.154 INFO Everything is fine
+2021-04-01 13:14:43.485 INFO Everything is fine
+2021-04-01 13:14:43.160 INFO Everything is fine
+2021-04-01 13:14:34.341 INFO Everything is fine
+2021-04-01 13:14:51.233 INFO Everything is fine
+2021-04-01 13:14:46.063 INFO Everything is fine
+2021-04-01 13:14:47.919 INFO Everything is fine
+2021-04-01 13:14:48.801 INFO Everything is fine
+2021-04-01 13:14:35.331 ERROR Feature 2 made an error
+2021-04-01 13:14:54.535 INFO Everything is fine
+2021-04-01 13:14:52.874 INFO Everything is fine
+2021-04-01 13:14:41.547 INFO Everything is fine
+2021-04-01 13:14:42.692 INFO Everything is fine
+2021-04-01 13:14:52.070 INFO Everything is fine
+2021-04-01 13:14:39.051 INFO Everything is fine
+2021-04-01 13:14:46.803 INFO Everything is fine
+2021-04-01 13:14:36.264 ERROR Feature 3 made an error
+2021-04-01 13:14:54.640 INFO Everything is fine
+2021-04-01 13:14:30.340 INFO Everything is fine
+2021-04-01 13:14:32.522 WARNING Something is bad, but ok
+2021-04-01 13:14:32.591 WARNING Something is bad, but ok
+2021-04-01 13:14:51.199 INFO Everything is fine
+2021-04-01 13:14:48.651 INFO Everything is fine
+2021-04-01 13:14:31.351 INFO Everything is fine
+2021-04-01 13:14:54.463 INFO Everything is fine
+2021-04-01 13:14:43.432 INFO Everything is fine
+2021-04-01 13:14:31.601 INFO Everything is fine
+2021-04-01 13:14:55.264 INFO Everything is fine
+2021-04-01 13:14:38.422 INFO Everything is fine
+2021-04-01 13:14:45.331 INFO Everything is fine
+2021-04-01 13:14:48.371 INFO Everything is fine
+2021-04-01 13:14:37.200 INFO Everything is fine
+2021-04-01 13:14:30.684 INFO Everything is fine
+2021-04-01 13:14:48.694 INFO Everything is fine
+2021-04-01 13:14:54.422 INFO Everything is fine
+2021-04-01 13:14:31.810 INFO Everything is fine
+2021-04-01 13:14:42.297 INFO Everything is fine
+2021-04-01 13:14:38.831 INFO Everything is fine
+2021-04-01 13:14:42.731 INFO Everything is fine
+2021-04-01 13:14:39.393 INFO Everything is fine
+2021-04-01 13:14:39.568 INFO Everything is fine
+2021-04-01 13:14:35.490 ERROR Feature 2 made an error
+2021-04-01 13:14:50.405 INFO Everything is fine
+2021-04-01 13:14:32.085 INFO Everything is fine
+2021-04-01 13:14:38.791 INFO Everything is fine
+2021-04-01 13:14:30.992 INFO Everything is fine
+2021-04-01 13:14:43.578 INFO Everything is fine
+2021-04-01 13:14:44.974 INFO Everything is fine
+2021-04-01 13:14:48.745 INFO Everything is fine
+2021-04-01 13:14:49.806 INFO Everything is fine
+2021-04-01 13:14:51.880 INFO Everything is fine
+2021-04-01 13:14:41.566 INFO Everything is fine
+2021-04-01 13:14:39.649 INFO Everything is fine
+2021-04-01 13:14:35.975 ERROR Feature 3 made an error
+2021-04-01 13:14:42.376 INFO Everything is fine
+2021-04-01 13:14:53.254 INFO Everything is fine
+2021-04-01 13:14:52.432 INFO Everything is fine
+2021-04-01 13:14:51.776 INFO Everything is fine
+2021-04-01 13:14:44.201 INFO Everything is fine
+2021-04-01 13:14:39.418 INFO Everything is fine
+2021-04-01 13:14:36.811 INFO Everything is fine
+2021-04-01 13:14:31.033 INFO Everything is fine
+2021-04-01 13:14:52.541 INFO Everything is fine
+2021-04-01 13:14:44.683 INFO Everything is fine
+2021-04-01 13:14:38.797 INFO Everything is fine
+2021-04-01 13:14:45.440 INFO Everything is fine
+2021-04-01 13:14:39.945 INFO Everything is fine
+2021-04-01 13:14:40.912 INFO Everything is fine
+2021-04-01 13:14:51.727 INFO Everything is fine
+2021-04-01 13:14:55.308 INFO Everything is fine
+2021-04-01 13:14:47.693 INFO Everything is fine
+2021-04-01 13:14:38.371 INFO Everything is fine
+2021-04-01 13:14:52.528 INFO Everything is fine
+2021-04-01 13:14:38.261 INFO Everything is fine
+2021-04-01 13:14:43.156 INFO Everything is fine
+2021-04-01 13:14:36.753 INFO Everything is fine
+2021-04-01 13:14:36.649 INFO Everything is fine
+2021-04-01 13:14:32.202 INFO Everything is fine
+2021-04-01 13:14:39.660 INFO Everything is fine
+2021-04-01 13:14:31.602 INFO Everything is fine
+2021-04-01 13:14:52.023 INFO Everything is fine
+2021-04-01 13:14:41.724 INFO Everything is fine
+2021-04-01 13:14:47.436 INFO Everything is fine
+2021-04-01 13:14:51.210 INFO Everything is fine
+2021-04-01 13:14:33.858 ERROR Feature 2 made an error
+2021-04-01 13:14:51.943 INFO Everything is fine
+2021-04-01 13:14:42.233 INFO Everything is fine
+2021-04-01 13:14:34.402 INFO Everything is fine
+2021-04-01 13:14:49.685 INFO Everything is fine
+2021-04-01 13:14:43.340 INFO Everything is fine
+2021-04-01 13:14:39.426 INFO Everything is fine
+2021-04-01 13:14:48.799 INFO Everything is fine
+2021-04-01 13:14:32.967 WARNING Something is bad, but ok
+2021-04-01 13:14:42.873 INFO Everything is fine
+2021-04-01 13:14:33.236 WARNING Something is bad, but ok
+2021-04-01 13:14:46.581 INFO Everything is fine
+2021-04-01 13:14:47.911 INFO Everything is fine
+2021-04-01 13:14:50.890 INFO Everything is fine
+2021-04-01 13:14:43.447 INFO Everything is fine
+2021-04-01 13:14:30.654 INFO Everything is fine
+2021-04-01 13:14:30.901 INFO Everything is fine
+2021-04-01 13:14:52.267 INFO Everything is fine
+2021-04-01 13:14:31.508 INFO Everything is fine
+2021-04-01 13:14:51.415 INFO Everything is fine
+2021-04-01 13:14:32.765 WARNING Something is bad, but ok
+2021-04-01 13:14:37.173 INFO Everything is fine
+2021-04-01 13:14:45.103 INFO Everything is fine
+2021-04-01 13:14:43.646 INFO Everything is fine
+2021-04-01 13:14:47.253 INFO Everything is fine
+2021-04-01 13:14:36.248 INFO Everything is fine
+2021-04-01 13:14:33.139 WARNING Something is bad, but ok
+2021-04-01 13:14:38.105 INFO Everything is fine
+2021-04-01 13:14:40.743 INFO Everything is fine
+2021-04-01 13:14:40.459 INFO Everything is fine
+2021-04-01 13:14:49.618 INFO Everything is fine
+2021-04-01 13:14:44.108 INFO Everything is fine
+2021-04-01 13:14:43.984 INFO Everything is fine
+2021-04-01 13:14:32.022 INFO Everything is fine
+2021-04-01 13:14:42.189 INFO Everything is fine
+2021-04-01 13:14:30.482 INFO Everything is fine
+2021-04-01 13:14:41.985 INFO Everything is fine
+2021-04-01 13:14:33.592 INFO Everything is fine
+2021-04-01 13:14:51.932 INFO Everything is fine
+2021-04-01 13:14:49.020 INFO Everything is fine
+2021-04-01 13:14:38.584 INFO Everything is fine
+2021-04-01 13:14:54.071 INFO Everything is fine
+2021-04-01 13:14:53.577 INFO Everything is fine
+2021-04-01 13:14:44.686 INFO Everything is fine
+2021-04-01 13:14:40.276 INFO Everything is fine
+2021-04-01 13:14:41.185 INFO Everything is fine
+2021-04-01 13:14:53.386 INFO Everything is fine
+2021-04-01 13:14:38.740 INFO Everything is fine
+2021-04-01 13:14:44.467 INFO Everything is fine
+2021-04-01 13:14:46.530 INFO Everything is fine
+2021-04-01 13:14:51.817 INFO Everything is fine
+2021-04-01 13:14:51.991 INFO Everything is fine
+2021-04-01 13:14:51.836 INFO Everything is fine
+2021-04-01 13:14:49.835 INFO Everything is fine
+2021-04-01 13:14:53.092 INFO Everything is fine
+2021-04-01 13:14:51.432 INFO Everything is fine
+2021-04-01 13:14:48.240 INFO Everything is fine
+2021-04-01 13:14:42.282 INFO Everything is fine
+2021-04-01 13:14:48.276 INFO Everything is fine
+2021-04-01 13:14:47.041 INFO Everything is fine
+2021-04-01 13:14:54.738 INFO Everything is fine
+2021-04-01 13:14:47.532 INFO Everything is fine
+2021-04-01 13:14:53.229 INFO Everything is fine
+2021-04-01 13:14:47.174 INFO Everything is fine
+2021-04-01 13:14:35.874 ERROR Feature 2 made an error
+2021-04-01 13:14:55.099 INFO Everything is fine
+2021-04-01 13:14:33.679 INFO Everything is fine
+2021-04-01 13:14:32.863 WARNING Something is bad, but ok
+2021-04-01 13:14:52.673 INFO Everything is fine
+2021-04-01 13:14:36.383 INFO Everything is fine
+2021-04-01 13:14:42.898 INFO Everything is fine
+2021-04-01 13:14:51.001 INFO Everything is fine
+2021-04-01 13:14:40.724 INFO Everything is fine
+2021-04-01 13:14:30.730 INFO Everything is fine
+2021-04-01 13:14:54.688 INFO Everything is fine
+2021-04-01 13:14:34.095 ERROR Feature 2 made an error
+2021-04-01 13:14:45.746 INFO Everything is fine
+2021-04-01 13:14:54.418 INFO Everything is fine
+2021-04-01 13:14:50.250 INFO Everything is fine
+2021-04-01 13:14:36.035 ERROR Feature 2 made an error
+2021-04-01 13:14:32.659 INFO Everything is fine
+2021-04-01 13:14:32.757 WARNING Something is bad, but ok
+2021-04-01 13:14:42.282 INFO Everything is fine
+2021-04-01 13:14:55.093 INFO Everything is fine
+2021-04-01 13:14:52.612 INFO Everything is fine
+2021-04-01 13:14:38.828 INFO Everything is fine
+2021-04-01 13:14:54.945 INFO Everything is fine
+2021-04-01 13:14:55.262 INFO Everything is fine
+2021-04-01 13:14:34.075 INFO Everything is fine
+2021-04-01 13:14:44.157 INFO Everything is fine
+2021-04-01 13:14:37.334 INFO Everything is fine
+2021-04-01 13:14:51.198 INFO Everything is fine
+2021-04-01 13:14:38.975 INFO Everything is fine
+2021-04-01 13:14:30.930 INFO Everything is fine
+2021-04-01 13:14:40.921 INFO Everything is fine
+2021-04-01 13:14:51.729 INFO Everything is fine
+2021-04-01 13:14:31.139 INFO Everything is fine
+2021-04-01 13:14:53.676 INFO Everything is fine
+2021-04-01 13:14:44.688 INFO Everything is fine
+2021-04-01 13:14:33.542 ERROR Feature 2 made an error
+2021-04-01 13:14:50.523 INFO Everything is fine
+2021-04-01 13:14:32.622 WARNING Something is bad, but ok
+2021-04-01 13:14:45.213 INFO Everything is fine
+2021-04-01 13:14:50.517 INFO Everything is fine
+2021-04-01 13:14:42.384 INFO Everything is fine
+2021-04-01 13:14:34.619 INFO Everything is fine
+2021-04-01 13:14:36.790 INFO Everything is fine
+2021-04-01 13:14:51.799 INFO Everything is fine
+2021-04-01 13:14:43.987 INFO Everything is fine
+2021-04-01 13:14:44.159 INFO Everything is fine
+2021-04-01 13:14:52.682 INFO Everything is fine
+2021-04-01 13:14:41.039 INFO Everything is fine
+2021-04-01 13:14:32.320 WARNING Something is bad, but ok
+2021-04-01 13:14:48.281 INFO Everything is fine
+2021-04-01 13:14:35.609 INFO Everything is fine
+2021-04-01 13:14:45.516 INFO Everything is fine
+2021-04-01 13:14:33.864 ERROR Feature 2 made an error
+2021-04-01 13:14:54.915 INFO Everything is fine
+2021-04-01 13:14:41.513 INFO Everything is fine
+2021-04-01 13:14:51.954 INFO Everything is fine
+2021-04-01 13:14:31.650 INFO Everything is fine
+2021-04-01 13:14:48.729 INFO Everything is fine
+2021-04-01 13:14:48.908 INFO Everything is fine
+2021-04-01 13:14:55.178 INFO Everything is fine
+2021-04-01 13:14:39.721 INFO Everything is fine
+2021-04-01 13:14:44.989 INFO Everything is fine
+2021-04-01 13:14:48.144 INFO Everything is fine
+2021-04-01 13:14:44.781 INFO Everything is fine
+2021-04-01 13:14:50.712 INFO Everything is fine
+2021-04-01 13:14:33.108 WARNING Something is bad, but ok
+2021-04-01 13:14:43.660 INFO Everything is fine
+2021-04-01 13:14:36.387 INFO Everything is fine
+2021-04-01 13:14:53.544 INFO Everything is fine
+2021-04-01 13:14:33.426 ERROR Feature 3 made an error
+2021-04-01 13:14:34.139 INFO Everything is fine
+2021-04-01 13:14:40.229 INFO Everything is fine
+2021-04-01 13:14:51.762 INFO Everything is fine
+2021-04-01 13:14:34.359 INFO Everything is fine
+2021-04-01 13:14:31.798 INFO Everything is fine
+2021-04-01 13:14:39.330 INFO Everything is fine
+2021-04-01 13:14:38.914 INFO Everything is fine
+2021-04-01 13:14:45.987 INFO Everything is fine
+2021-04-01 13:14:36.702 INFO Everything is fine
+2021-04-01 13:14:53.254 INFO Everything is fine
+2021-04-01 13:14:37.531 INFO Everything is fine
+2021-04-01 13:14:52.323 INFO Everything is fine
+2021-04-01 13:14:53.959 INFO Everything is fine
+2021-04-01 13:14:37.260 INFO Everything is fine
+2021-04-01 13:14:44.834 INFO Everything is fine
+2021-04-01 13:14:50.831 INFO Everything is fine
+2021-04-01 13:14:47.514 INFO Everything is fine
+2021-04-01 13:14:52.216 INFO Everything is fine
+2021-04-01 13:14:34.262 ERROR Feature 2 made an error
+2021-04-01 13:14:42.189 INFO Everything is fine
+2021-04-01 13:14:33.152 WARNING Something is bad, but ok
+2021-04-01 13:14:43.870 INFO Everything is fine
+2021-04-01 13:14:48.131 INFO Everything is fine
+2021-04-01 13:14:48.281 INFO Everything is fine
+2021-04-01 13:14:42.970 INFO Everything is fine
+2021-04-01 13:14:43.243 INFO Everything is fine
+2021-04-01 13:14:35.047 ERROR Feature 3 made an error
+2021-04-01 13:14:31.114 INFO Everything is fine
+2021-04-01 13:14:51.332 INFO Everything is fine
+2021-04-01 13:14:46.346 INFO Everything is fine
+2021-04-01 13:14:43.126 INFO Everything is fine
+2021-04-01 13:14:51.465 INFO Everything is fine
+2021-04-01 13:14:32.342 WARNING Something is bad, but ok
+2021-04-01 13:14:44.043 INFO Everything is fine
+2021-04-01 13:14:44.085 INFO Everything is fine
+2021-04-01 13:14:40.684 INFO Everything is fine
+2021-04-01 13:14:32.069 INFO Everything is fine
+2021-04-01 13:14:31.875 INFO Everything is fine
+2021-04-01 13:14:48.387 INFO Everything is fine
+2021-04-01 13:14:42.260 INFO Everything is fine
+2021-04-01 13:14:45.665 INFO Everything is fine
+2021-04-01 13:14:40.512 INFO Everything is fine
+2021-04-01 13:14:39.679 INFO Everything is fine
+2021-04-01 13:14:32.539 WARNING Something is bad, but ok
+2021-04-01 13:14:40.943 INFO Everything is fine
+2021-04-01 13:14:52.733 INFO Everything is fine
+2021-04-01 13:14:38.541 INFO Everything is fine
+2021-04-01 13:14:33.624 ERROR Feature 2 made an error
+2021-04-01 13:14:54.317 INFO Everything is fine
+2021-04-01 13:14:31.013 INFO Everything is fine
+2021-04-01 13:14:44.300 INFO Everything is fine
+2021-04-01 13:14:41.222 INFO Everything is fine
+2021-04-01 13:14:53.302 INFO Everything is fine
+2021-04-01 13:14:42.036 INFO Everything is fine
+2021-04-01 13:14:30.985 INFO Everything is fine
+2021-04-01 13:14:44.506 INFO Everything is fine
+2021-04-01 13:14:46.827 INFO Everything is fine
+2021-04-01 13:14:44.306 INFO Everything is fine
+2021-04-01 13:14:42.302 INFO Everything is fine
+2021-04-01 13:14:42.143 INFO Everything is fine
+2021-04-01 13:14:53.657 INFO Everything is fine
+2021-04-01 13:14:32.430 WARNING Something is bad, but ok
+2021-04-01 13:14:41.482 INFO Everything is fine
+2021-04-01 13:14:49.972 INFO Everything is fine
+2021-04-01 13:14:46.807 INFO Everything is fine
+2021-04-01 13:14:46.953 INFO Everything is fine
+2021-04-01 13:14:42.374 INFO Everything is fine
+2021-04-01 13:14:39.157 INFO Everything is fine
+2021-04-01 13:14:52.051 INFO Everything is fine
+2021-04-01 13:14:33.726 ERROR Feature 2 made an error
+2021-04-01 13:14:47.450 INFO Everything is fine
+2021-04-01 13:14:53.877 INFO Everything is fine
+2021-04-01 13:14:49.888 INFO Everything is fine
+2021-04-01 13:14:50.231 INFO Everything is fine
+2021-04-01 13:14:33.745 ERROR Feature 2 made an error
+2021-04-01 13:14:43.299 INFO Everything is fine
+2021-04-01 13:14:36.701 INFO Everything is fine
+2021-04-01 13:14:51.489 INFO Everything is fine
+2021-04-01 13:14:47.840 INFO Everything is fine
+2021-04-01 13:14:48.153 INFO Everything is fine
+2021-04-01 13:14:31.382 INFO Everything is fine

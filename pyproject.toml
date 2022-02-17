@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "logstat"
+version = "0.1.0"
+description = "A tool for analyzing server logs"
+authors = ["Alex W <alex@blinkenlights.ca>"]
+license = "ISC"
+
+[tool.poetry.scripts]
+logstat = "logstat.logstat:start"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "^3.5.1"
+
+[tool.poetry.dev-dependencies]
+black = "^22.1.0"
+pytest = "^7.0.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
