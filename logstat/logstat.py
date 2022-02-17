@@ -36,7 +36,6 @@ def plot_entries(entries):
 
 def start():
     entries = read_logs()
-    times = [entry.time for entry in entries if entry.level is Level.info]
     plot_entries(entries)
 
 
